@@ -1,18 +1,17 @@
-## Hi there 👋
+# Hey, I'm Manuel 👋
 
-I am Manuel Torres.
+I'm a Computer Science student at Northeastern University, interested in building performant, scalable systems and exploring machine learning.
 
-<!--
-**manueltorres0/manueltorres0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm up to
 
-Here are some ideas to get you started:
+- Working on full-stack applications and backend architecture
+- Learning C++ and Django
+- Exploring concurrency and system design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I work with
+
+Java, Python, TypeScript, JavaScript, React, Next.js, PostgreSQL, AWS S3, Supabase
+
+## Get in touch
+
+📧 torres.man@northeastern.edu
