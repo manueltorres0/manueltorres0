@@ -1,17 +1,23 @@
-# Hey, I'm Manuel 👋
+# Hey, I'm Manuel Torres 👋
 
-I'm a Computer Science student at Northeastern University, interested in building performant, scalable systems and exploring machine learning.
+I am a second-year Honors Computer Science student at Northeastern University.
 
-## What I'm up to
+## Currently
+- Software Engineer at **Generate Product Development Studio**
+- Building **Auction it!**, a low-latency auction engine in C++
+- Learning Django
 
-- Working on full-stack applications and backend architecture
-- Learning C++ and Django
-- Exploring concurrency and system design
+## Interests
+- Backend architecture and system design
+- Concurrency and low-latency systems
 
-## Tech I work with
+## Tech
+**Languages:** C++, Java, Go, Python, TypeScript, JavaScript, Racket
 
-Java, Python, TypeScript, JavaScript, React, Next.js, PostgreSQL, AWS S3, Supabase
+**Frameworks:** React, Next.js, Hono, TypeORM, uWebSockets, Fiber
+
+**Tools & Platforms:** Git, Docker, PostgreSQL, SQLite, AWS S3, Supabase
 
 ## Get in touch
-
 📧 torres.man@northeastern.edu
+🔗 [linkedin.com/in/manuel-torres-s](https://linkedin.com/in/manuel-torres-s)
