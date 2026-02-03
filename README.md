@@ -1,4 +1,4 @@
-# Hey, I'm Manuel Torres 👋
+# Hey, I'm Manuel Torres Santamaria 👋
 
 I am a second-year Honors Computer Science student at Northeastern University.
 
