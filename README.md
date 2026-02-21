@@ -10,6 +10,7 @@ I am a second-year Honors Computer Science student at Northeastern University.
 ## Interests
 - Backend architecture and system design
 - Concurrency and low-latency systems
+- Machine Learning
 
 ## Tech
 **Languages:** C++, Java, Go, Python, TypeScript, JavaScript, Racket
